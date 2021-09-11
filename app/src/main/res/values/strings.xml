@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My today tasks</string>
+    <string name="tv_title_tasks">Tarefas de hoje!</string>
+    <string name="title_text_hint">Título</string>
+    <string name="description_text_hint">Descrição</string>
+    <string name="button_create_text">Criar</string>
+    <string name="button_cancel_text">Cancelar</string>
+    <string name="create_task_text">Criar tarefa</string>
+    <string name="data_hint_text">Data</string>
+    <string name="time_hint_text">Hora</string>
+    <string name="new_task_description">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="warning_empty_task_text">Não tem nehuma tarefa por enquanto!</string>
+</resources>
